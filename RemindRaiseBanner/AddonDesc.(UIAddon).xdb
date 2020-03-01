@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIAddon>
+  <AutoStart>true</AutoStart>
+  <Name>RemindRaiseBanner</Name>
+  <Forms>
+    <Item>
+      <Form href="widgets/MainForm.(WidgetForm).xdb#xpointer(/WidgetForm)"/>
+      <Id>Main</Id>
+    </Item>
+  </Forms>
+  <MainFormId>Main</MainFormId>
+  <ScriptFileRefs>
+    <Item href="scripts/main.lua"/>
+    <Item href="scripts/config.lua"/>
+  </ScriptFileRefs>
+  <localizedNameFileRef href="name.txt"/>
+  <localizedDescFileRef href="desc.txt"/>
+</UIAddon>

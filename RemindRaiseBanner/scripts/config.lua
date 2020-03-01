@@ -1,0 +1,1 @@
+Global('RAISEBANNER_SPELLNAME', 'Аспект Нападения')

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetTextView>
+	<Name>RemindRaiseBannerText</Name>
+	<Priority>0</Priority>
+	<Placement>
+		<QuantumScale>false</QuantumScale>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<HighPos>300</HighPos>
+		</Y>
+	</Placement>
+	<Visible>true</Visible>
+	<Enabled>true</Enabled>
+	<TransparentInput>true</TransparentInput>
+	<FormatFileRef href="RemindRaiseBannerFormat.txt" />
+	<TextStyle>
+		<multiline>false</multiline>
+		<wrapText>false</wrapText>
+	</TextStyle>
+</WidgetTextView>

@@ -1,2 +1,2 @@
 # AllodsAddons
-Allods addons
+My source code for Allods Online addons.
